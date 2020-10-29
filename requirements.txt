@@ -1,6 +1,5 @@
 pandas    
-numpy     
-pylab   
+numpy        
 seaborn      
 matplotlib   
 matplotlib.pyplot
